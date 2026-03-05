@@ -15,11 +15,6 @@ Building intelligent solutions with AI, cloud technologies, and modern web devel
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,mongodb,aws,git,html,css,javascript"/>
 </p>
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharunnnnn&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunnnnn&layout=compact)
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharunnnnn&theme=react-dark)

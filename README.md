@@ -18,3 +18,14 @@ Building intelligent solutions with AI, cloud technologies, and modern web devel
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharunnnnn&theme=react-dark)
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:tharunsanjay12@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/tharunsanjay-s-r-01788a334">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
